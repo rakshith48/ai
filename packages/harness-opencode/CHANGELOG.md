@@ -1,5 +1,14 @@
 # @ai-sdk/harness-opencode
 
+## 1.0.73
+
+### Patch Changes
+
+- 69bb613: feat(harness): support request transformations in network sandbox abstraction and use it to apply credential brokering when available
+- 02af883: fix(harness-opencode): enhance local OpenCode server behavior
+- Updated dependencies [69bb613]
+  - @ai-sdk/harness@1.0.72
+
 ## 1.0.72
 
 ### Patch Changes

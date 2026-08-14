@@ -1,5 +1,13 @@
 # @ai-sdk/harness-deepagents
 
+## 1.0.72
+
+### Patch Changes
+
+- 69bb613: feat(harness): support request transformations in network sandbox abstraction and use it to apply credential brokering when available
+- Updated dependencies [69bb613]
+  - @ai-sdk/harness@1.0.72
+
 ## 1.0.71
 
 ### Patch Changes

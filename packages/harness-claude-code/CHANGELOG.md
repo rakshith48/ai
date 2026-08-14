@@ -1,5 +1,13 @@
 # @ai-sdk/harness-claude-code
 
+## 1.0.75
+
+### Patch Changes
+
+- 69bb613: feat(harness): support request transformations in network sandbox abstraction and use it to apply credential brokering when available
+- Updated dependencies [69bb613]
+  - @ai-sdk/harness@1.0.72
+
 ## 1.0.74
 
 ### Patch Changes

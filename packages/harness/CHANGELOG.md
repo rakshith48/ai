@@ -1,5 +1,14 @@
 # @ai-sdk/harness
 
+## 1.0.72
+
+### Patch Changes
+
+- 69bb613: feat(harness): support request transformations in network sandbox abstraction and use it to apply credential brokering when available
+- Updated dependencies [0782259]
+- Updated dependencies [2fd1214]
+  - ai@7.0.66
+
 ## 1.0.71
 
 ### Patch Changes
